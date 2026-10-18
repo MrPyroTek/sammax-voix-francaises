@@ -1,0 +1,10 @@
+Place ici les six installeurs français de 2021, ceux de l'ancienne version du jeu :
+
+SaM_101_Culture_Shock_French_Patch.exe
+SaM_102_Situation_Comedy_French_Patch.exe
+SaM_103_The_Mole_The_Mob_and_the_Meatball_French_Patch.exe
+SaM_104_Abe_Lincoln_Must_Die_French_Patch.exe
+SaM_105_Reality 2.0_French_Patch.exe
+SaM_106_Bright_Side_of_the_Moon_French_Patch.exe
+
+Ces fichiers ne font pas partie du dépôt : chacun doit les avoir de son côté.
