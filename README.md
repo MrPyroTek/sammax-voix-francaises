@@ -1,8 +1,8 @@
 # Voix françaises pour Sam & Max Save the World
 
-Le remaster Steam (Skunkape) affiche les sous-titres français, mais les personnages parlent anglais. Ce mod remet le doublage français de 2021 sur les six épisodes.
+Le remaster Steam (Skunkape) affiche les sous-titres français, mais les personnages parlent anglais. Ce mod remet l'anciens doublage français sur les six épisodes.
 
-Tout tient dans **un seul fichier** : `SamMax-Voix-Francaises.exe` (environ 1,5 Go). Il contient déjà les voix des épisodes 1 à 6. Rien d'autre n'est à télécharger, et rien n'est à installer à part le jeu lui-même.
+Tout tient dans **un seul fichier** : `SamMax-Voix-Francaises.exe` (environ 1,5 Go). Il contient déjà les voix des épisodes 1 à 6. 
 
 ## Télécharger
 
@@ -19,7 +19,7 @@ Lien direct de la version 1.0.0 :
 
 1. Ferme Sam & Max complètement.
 2. Lance `SamMax-Voix-Francaises.exe`.
-3. Une fenêtre 7-Zip extrait les voix. Compte une ou deux minutes, et environ 3 Go libres sur le disque Windows.
+3. Une fenêtre extrait les voix. Compte une ou deux minutes, et environ 3 Go libres sur le disque Windows.
 4. L'installeur s'ouvre. Le dossier du jeu est rempli tout seul quand Steam est installé.
 5. Si le dossier est vide, clique sur **Parcourir** et choisis le dossier qui contient `SamMax100.exe`. C'est en général :
 
@@ -51,7 +51,7 @@ Vérifier l'intégrité des fichiers dans Steam remet aussi les voix anglaises. 
 - Les bruitages et la musique du remaster ne sont pas touchés.
 
 ## Limites
-
+- Certaines phrases onts mal été "trouver" par mon script, donc il y a les voix anglaises.
 - Le mouvement des lèvres reste calé sur la durée des voix anglaises.
 - Quelques répliques réécrites pour le remaster n'existent pas dans l'ancien doublage. Celles-là restent en anglais.
 - Le remaster n'a qu'une seule piste de voix. Après l'installation, les voix françaises jouent quelle que soit la langue des sous-titres.
